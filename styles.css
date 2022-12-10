@@ -1,6 +1,7 @@
 #portfolio {
     padding: 20px;
 }
+
 .intro{
     font-size: 20px;
 }
@@ -48,4 +49,9 @@ p,h3,h4{
 
 h2{
     font-size: 30px;
+}
+
+.identifying-usability{
+    margin: 0;
+    padding: 10px;
 }
